@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Inderjeet pandey
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in Java programming
+- 🌱 I’m currently learning Java full stack development
 - 💞️ I’m looking to collaborate on Web dev projects
 - 📫 Reach me on Theinderpandey@gmail.com
 - 😄 Pronouns: he/him
